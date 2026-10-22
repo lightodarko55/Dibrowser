@@ -1,6 +1,0 @@
-- name: Extract ZIP Archive
-  uses: ihiroky/extract-action@v1
-  with:
-    file_path: path/to/your/file.zip
-    extract_dir: path/to/destination
-    
